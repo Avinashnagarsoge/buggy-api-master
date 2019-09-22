@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: buggy-api-master
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MaDyY
+Implementation-Vendor-Id: com.webonise.login
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/buggy-api-master
+Created-By: Maven Integration for Eclipse
+
